@@ -1,4 +1,4 @@
-Craftsman
+Craftsman: Minecraft Mod
 =========
 
-Minecraft Mod: Craftsman
+My entry for ModJam 4 (May 2014)
